@@ -75,6 +75,13 @@ python visualize_sorting.py
 6. **Tim Sort**
    - Tim Sort is a hybrid sorting algorithm derived from merge sort and insertion sort, designed to perform well on many kinds of real-world data.
 
+Insertion Sort Before Sorting:
+<img width="898" alt="image" src="https://github.com/Hasti522004/data-visualization-of-sorting-algorithms-using-python/assets/93071222/0ae23242-683f-4a3f-9558-1f41af751539">
+
+Insertion Sort After Sorting:
+<img width="901" alt="image" src="https://github.com/Hasti522004/data-visualization-of-sorting-algorithms-using-python/assets/93071222/73615a52-56e5-42f6-8928-6e008ff653a5">
+
+
 ## Contact
 
 For any inquiries or suggestions, please contact @hasti.hajipara@gmail.com
